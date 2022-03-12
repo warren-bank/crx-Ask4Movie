@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Ask4Movie
 // @description  Redirect top window to URL of embedded video iframe.
-// @version      1.0.0
+// @version      1.0.1
 // @match        *://ask4movie.io/*
 // @match        *://*.ask4movie.io/*
 // @icon         https://ask4movie.io/wp-content/uploads/2018/04/cropped-A4M-Icon-32x32.png
-// @run-at       document-start
+// @run-at       document-end
 // @grant        unsafeWindow
 // @homepage     https://github.com/warren-bank/crx-Ask4Movie/tree/webmonkey-userscript/es5
 // @supportURL   https://github.com/warren-bank/crx-Ask4Movie/issues
@@ -101,6 +101,8 @@ var init = function() {
     redirect_to_url(iframe_url)
 }
 
-unsafeWindow.addEventListener('load', init)
+unsafeWindow.addEventListener('DOMContentLoaded', init)
+unsafeWindow.addEventListener('load',             init)
+init()
 
 // -----------------------------------------------------------------------------
