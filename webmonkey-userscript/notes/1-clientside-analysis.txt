@@ -1,0 +1,117 @@
+--------------------------------------------------------------------------------
+
+https://ask4movie.io/
+
+--------------------------------------------------------------------------------
+// https://ask4movie.io/blacklight-2022/
+
+<script src="data:text/javascript;base64,dmFyIF8weGUxMTQ9WyJGaXJlZm94IiwiaW5kZXhPZiIsInVzZXJBZ2VudCIsInVzZSBzdHJpY3QiLCJkZXZ0b29sc2NoYW5nZSIsImRpc3BhdGNoRXZlbnQiLCJvdXRlcldpZHRoIiwiaW5uZXJXaWR0aCIsIm91dGVySGVpZ2h0IiwiaW5uZXJIZWlnaHQiLCJ2ZXJ0aWNhbCIsImhvcml6b250YWwiLCJGaXJlYnVnIiwiY2hyb21lIiwiaXNJbml0aWFsaXplZCIsIm9uIiwiY2xhc3NOYW1lIiwicGxheWVyLWVtYmVkIiwiZ2V0RWxlbWVudEJ5SWQiLCJvZmYiLCJ1bmRlZmluZWQiLCJleHBvcnRzIiwiZGV2dG9vbHMiLCJpZCIsIkRldiB0b29scyBjaGVja2VyIiwiZGVmaW5lUHJvcGVydHkiLCJkaXIiLCJQR2xtY21GdFpTQjNhV1IwYUQwaU9EazVJaUJvWldsbmFIUTlJalV4TXlJZ2MzSmpQU0pvZEhSd2N6b3ZMMk5wYm1WbmNtRmlZbVZ5TG1OdmJTOTJMM0Y1TURSbFlXVTFNVFF0ZWpjMWR5SWdabkpoYldWaWIzSmtaWEk5SWpBaUlHRnNiRzkzWm5Wc2JITmpjbVZsYmo0OEwybG1jbUZ0WlQ0PSIsImF0dHJpYnV0ZU5hbWUiLCJjbGFzcyIsInRhcmdldCIsImxvY2F0aW9uIiwiPyIsInN1YnN0cmluZyIsInRpdGxlIiwicmVwbGFjZVN0YXRlIiwiaGlzdG9yeSIsImFwcGVuZCIsIiNwbGF5ZXItZW1iZWQ6bm90KDpoYXMoaWZyYW1lKSkiLCJyZWFkeSIsInN1YnN0ciIsImhyZWYiLCI/ciIsImlubmVySFRNTCIsIjxwPlBsZWFzZSBjbG9zZSBkZXYgdG9vbCBhbmQgcmVsb2FkIHRvIHdhdGNoITwvcD4iLCJmb3JFYWNoIiwib2JzZXJ2ZSJdO3ZhciBjaGVja1N0YXR1cztpZihuYXZpZ2F0b3JbXzB4ZTExNFsyXV1bXzB4ZTExNFsxXV0oXzB4ZTExNFswXSk+LTEpeyhmdW5jdGlvbigpe18weGUxMTRbM107Y29uc3QgZGV2dG9vbHM9e2lzT3BlbjohMSxvcmllbnRhdGlvbjp1bmRlZmluZWR9O2NvbnN0IHRocmVzaG9sZD0xNjA7Y29uc3QgZW1pdEV2ZW50PShpc09wZW4sb3JpZW50YXRpb24pPT57d2luZG93W18weGUxMTRbNV1dKG5ldyBDdXN0b21FdmVudChfMHhlMTE0WzRdLHtkZXRhaWw6e2lzT3BlbixvcmllbnRhdGlvbn19KSl9O2NvbnN0IG1haW49KHtlbWl0RXZlbnRzPSEwfT17fSk9Pntjb25zdCB3aWR0aFRocmVzaG9sZD13aW5kb3dbXzB4ZTExNFs2XV0td2luZG93W18weGUxMTRbN11dPnRocmVzaG9sZDtjb25zdCBoZWlnaHRUaHJlc2hvbGQ9d2luZG93W18weGUxMTRbOF1dLXdpbmRvd1tfMHhlMTE0WzldXT50aHJlc2hvbGQ7Y29uc3Qgb3JpZW50YXRpb249d2lkdGhUaHJlc2hvbGQ/XzB4ZTExNFsxMF06XzB4ZTExNFsxMV07aWYoIShoZWlnaHRUaHJlc2hvbGQmJndpZHRoVGhyZXNob2xkKSYmKCh3aW5kb3dbXzB4ZTExNFsxMl1dJiZ3aW5kb3dbXzB4ZTExNFsxMl1dW18weGUxMTRbMTNdXSYmd2luZG93W18weGUxMTRbMTJdXVtfMHhlMTE0WzEzXV1bXzB4ZTExNFsxNF1dKXx8d2lkdGhUaHJlc2hvbGR8fGhlaWdodFRocmVzaG9sZCkpe2NoZWNrU3RhdHVzPV8weGUxMTRbMTVdO2RvY3VtZW50W18weGUxMTRbMThdXShfMHhlMTE0WzE3XSlbXzB4ZTExNFsxNl1dPWNoZWNrU3RhdHVzfWVsc2V7Y2hlY2tTdGF0dXM9XzB4ZTExNFsxOV07ZG9jdW1lbnRbXzB4ZTExNFsxOF1dKF8weGUxMTRbMTddKVtfMHhlMTE0WzE2XV09Y2hlY2tTdGF0dXN9fTttYWluKHtlbWl0RXZlbnRzOiExfSk7c2V0SW50ZXJ2YWwobWFpbiw1MDApO2lmKHR5cGVvZiBtb2R1bGUhPT1fMHhlMTE0WzIwXSYmbW9kdWxlW18weGUxMTRbMjFdXSl7bW9kdWxlW18weGUxMTRbMjFdXT1kZXZ0b29sc31lbHNle3dpbmRvd1tfMHhlMTE0WzIyXV09ZGV2dG9vbHN9fSkoKX1lbHNle3ZhciBlbGVtZW50PW5ldyBJbWFnZSgpO09iamVjdFtfMHhlMTE0WzI1XV0oZWxlbWVudCxfMHhlMTE0WzIzXSx7Z2V0OmZ1bmN0aW9uKCl7Y2hlY2tTdGF0dXM9XzB4ZTExNFsxNV07ZG9jdW1lbnRbXzB4ZTExNFsxOF1dKF8weGUxMTRbMTddKVtfMHhlMTE0WzE2XV09Y2hlY2tTdGF0dXM7dGhyb3cgbmV3IEVycm9yKF8weGUxMTRbMjRdKX19KTtyZXF1ZXN0QW5pbWF0aW9uRnJhbWUoZnVuY3Rpb24gY2hlY2soKXtjaGVja1N0YXR1cz1fMHhlMTE0WzE5XTtjb25zb2xlW18weGUxMTRbMjZdXShlbGVtZW50KTtkb2N1bWVudFtfMHhlMTE0WzE4XV0oXzB4ZTExNFsxN10pW18weGUxMTRbMTZdXT1jaGVja1N0YXR1cztyZXF1ZXN0QW5pbWF0aW9uRnJhbWUoY2hlY2spfSl9O2NvbnN0IG1haW5Ob2RlPWRvY3VtZW50W18weGUxMTRbMThdXShfMHhlMTE0WzE3XSk7dmFyIGlmYz1fMHhlMTE0WzI3XTtmdW5jdGlvbiBjYWxsYmFjayhtdXRhdGlvbnNMaXN0LG9ic2VydmVyKXttdXRhdGlvbnNMaXN0W18weGUxMTRbNDVdXSgobXV0YXRpb24pPT57aWYoKG11dGF0aW9uW18weGUxMTRbMjhdXT09PV8weGUxMTRbMjldKSYmKG11dGF0aW9uW18weGUxMTRbMzBdXVtfMHhlMTE0WzE2XV09PT1fMHhlMTE0WzE5XSkpe3ZhciB1cmk9d2luZG93W18weGUxMTRbMzFdXS50b1N0cmluZygpO2lmKHVyaVtfMHhlMTE0WzFdXShfMHhlMTE0WzMyXSk+MCl7dmFyIGNsZWFuX3VyaT11cmlbXzB4ZTExNFszM11dKDAsdXJpW18weGUxMTRbMV1dKF8weGUxMTRbMzJdKSk7d2luZG93W18weGUxMTRbMzZdXVtfMHhlMTE0WzM1XV0oe30sZG9jdW1lbnRbXzB4ZTExNFszNF1dLGNsZWFuX3VyaSl9O2pRdWVyeShkb2N1bWVudClbXzB4ZTExNFszOV1dKGZ1bmN0aW9uKCl7alF1ZXJ5KF8weGUxMTRbMzhdKVtfMHhlMTE0WzM3XV0oYXRvYihpZmMpKX0pfTtpZigobXV0YXRpb25bXzB4ZTExNFsyOF1dPT09XzB4ZTExNFsyOV0pJiYobXV0YXRpb25bXzB4ZTExNFszMF1dW18weGUxMTRbMTZdXT09PV8weGUxMTRbMTVdKSl7aWYod2luZG93W18weGUxMTRbMzFdXVtfMHhlMTE0WzQxXV1bXzB4ZTExNFs0MF1dKC0yKSE9PV8weGUxMTRbNDJdKXt3aW5kb3dbXzB4ZTExNFszMV1dPXdpbmRvd1tfMHhlMTE0WzMxXV1bXzB4ZTExNFs0MV1dK18weGUxMTRbNDJdfTttdXRhdGlvbltfMHhlMTE0WzMwXV1bXzB4ZTExNFs0M11dPV8weGUxMTRbNDRdfX0pfWNvbnN0IG11dGF0aW9uT2JzZXJ2ZXI9bmV3IE11dGF0aW9uT2JzZXJ2ZXIoY2FsbGJhY2spO211dGF0aW9uT2JzZXJ2ZXJbXzB4ZTExNFs0Nl1dKG1haW5Ob2RlLHthdHRyaWJ1dGVzOiEwfSk=" defer type="2e3a52078e0d57f1d6c9ad77-text/javascript"></script>
+
+----------------------------------------
+
+test:
+=====
+console.log(
+  atob("dmFyIF8weGUxMTQ9WyJGaXJlZm94IiwiaW5kZXhPZiIsInVzZXJBZ2VudCIsInVzZSBzdHJpY3QiLCJkZXZ0b29sc2NoYW5nZSIsImRpc3BhdGNoRXZlbnQiLCJvdXRlcldpZHRoIiwiaW5uZXJXaWR0aCIsIm91dGVySGVpZ2h0IiwiaW5uZXJIZWlnaHQiLCJ2ZXJ0aWNhbCIsImhvcml6b250YWwiLCJGaXJlYnVnIiwiY2hyb21lIiwiaXNJbml0aWFsaXplZCIsIm9uIiwiY2xhc3NOYW1lIiwicGxheWVyLWVtYmVkIiwiZ2V0RWxlbWVudEJ5SWQiLCJvZmYiLCJ1bmRlZmluZWQiLCJleHBvcnRzIiwiZGV2dG9vbHMiLCJpZCIsIkRldiB0b29scyBjaGVja2VyIiwiZGVmaW5lUHJvcGVydHkiLCJkaXIiLCJQR2xtY21GdFpTQjNhV1IwYUQwaU9EazVJaUJvWldsbmFIUTlJalV4TXlJZ2MzSmpQU0pvZEhSd2N6b3ZMMk5wYm1WbmNtRmlZbVZ5TG1OdmJTOTJMM0Y1TURSbFlXVTFNVFF0ZWpjMWR5SWdabkpoYldWaWIzSmtaWEk5SWpBaUlHRnNiRzkzWm5Wc2JITmpjbVZsYmo0OEwybG1jbUZ0WlQ0PSIsImF0dHJpYnV0ZU5hbWUiLCJjbGFzcyIsInRhcmdldCIsImxvY2F0aW9uIiwiPyIsInN1YnN0cmluZyIsInRpdGxlIiwicmVwbGFjZVN0YXRlIiwiaGlzdG9yeSIsImFwcGVuZCIsIiNwbGF5ZXItZW1iZWQ6bm90KDpoYXMoaWZyYW1lKSkiLCJyZWFkeSIsInN1YnN0ciIsImhyZWYiLCI/ciIsImlubmVySFRNTCIsIjxwPlBsZWFzZSBjbG9zZSBkZXYgdG9vbCBhbmQgcmVsb2FkIHRvIHdhdGNoITwvcD4iLCJmb3JFYWNoIiwib2JzZXJ2ZSJdO3ZhciBjaGVja1N0YXR1cztpZihuYXZpZ2F0b3JbXzB4ZTExNFsyXV1bXzB4ZTExNFsxXV0oXzB4ZTExNFswXSk+LTEpeyhmdW5jdGlvbigpe18weGUxMTRbM107Y29uc3QgZGV2dG9vbHM9e2lzT3BlbjohMSxvcmllbnRhdGlvbjp1bmRlZmluZWR9O2NvbnN0IHRocmVzaG9sZD0xNjA7Y29uc3QgZW1pdEV2ZW50PShpc09wZW4sb3JpZW50YXRpb24pPT57d2luZG93W18weGUxMTRbNV1dKG5ldyBDdXN0b21FdmVudChfMHhlMTE0WzRdLHtkZXRhaWw6e2lzT3BlbixvcmllbnRhdGlvbn19KSl9O2NvbnN0IG1haW49KHtlbWl0RXZlbnRzPSEwfT17fSk9Pntjb25zdCB3aWR0aFRocmVzaG9sZD13aW5kb3dbXzB4ZTExNFs2XV0td2luZG93W18weGUxMTRbN11dPnRocmVzaG9sZDtjb25zdCBoZWlnaHRUaHJlc2hvbGQ9d2luZG93W18weGUxMTRbOF1dLXdpbmRvd1tfMHhlMTE0WzldXT50aHJlc2hvbGQ7Y29uc3Qgb3JpZW50YXRpb249d2lkdGhUaHJlc2hvbGQ/XzB4ZTExNFsxMF06XzB4ZTExNFsxMV07aWYoIShoZWlnaHRUaHJlc2hvbGQmJndpZHRoVGhyZXNob2xkKSYmKCh3aW5kb3dbXzB4ZTExNFsxMl1dJiZ3aW5kb3dbXzB4ZTExNFsxMl1dW18weGUxMTRbMTNdXSYmd2luZG93W18weGUxMTRbMTJdXVtfMHhlMTE0WzEzXV1bXzB4ZTExNFsxNF1dKXx8d2lkdGhUaHJlc2hvbGR8fGhlaWdodFRocmVzaG9sZCkpe2NoZWNrU3RhdHVzPV8weGUxMTRbMTVdO2RvY3VtZW50W18weGUxMTRbMThdXShfMHhlMTE0WzE3XSlbXzB4ZTExNFsxNl1dPWNoZWNrU3RhdHVzfWVsc2V7Y2hlY2tTdGF0dXM9XzB4ZTExNFsxOV07ZG9jdW1lbnRbXzB4ZTExNFsxOF1dKF8weGUxMTRbMTddKVtfMHhlMTE0WzE2XV09Y2hlY2tTdGF0dXN9fTttYWluKHtlbWl0RXZlbnRzOiExfSk7c2V0SW50ZXJ2YWwobWFpbiw1MDApO2lmKHR5cGVvZiBtb2R1bGUhPT1fMHhlMTE0WzIwXSYmbW9kdWxlW18weGUxMTRbMjFdXSl7bW9kdWxlW18weGUxMTRbMjFdXT1kZXZ0b29sc31lbHNle3dpbmRvd1tfMHhlMTE0WzIyXV09ZGV2dG9vbHN9fSkoKX1lbHNle3ZhciBlbGVtZW50PW5ldyBJbWFnZSgpO09iamVjdFtfMHhlMTE0WzI1XV0oZWxlbWVudCxfMHhlMTE0WzIzXSx7Z2V0OmZ1bmN0aW9uKCl7Y2hlY2tTdGF0dXM9XzB4ZTExNFsxNV07ZG9jdW1lbnRbXzB4ZTExNFsxOF1dKF8weGUxMTRbMTddKVtfMHhlMTE0WzE2XV09Y2hlY2tTdGF0dXM7dGhyb3cgbmV3IEVycm9yKF8weGUxMTRbMjRdKX19KTtyZXF1ZXN0QW5pbWF0aW9uRnJhbWUoZnVuY3Rpb24gY2hlY2soKXtjaGVja1N0YXR1cz1fMHhlMTE0WzE5XTtjb25zb2xlW18weGUxMTRbMjZdXShlbGVtZW50KTtkb2N1bWVudFtfMHhlMTE0WzE4XV0oXzB4ZTExNFsxN10pW18weGUxMTRbMTZdXT1jaGVja1N0YXR1cztyZXF1ZXN0QW5pbWF0aW9uRnJhbWUoY2hlY2spfSl9O2NvbnN0IG1haW5Ob2RlPWRvY3VtZW50W18weGUxMTRbMThdXShfMHhlMTE0WzE3XSk7dmFyIGlmYz1fMHhlMTE0WzI3XTtmdW5jdGlvbiBjYWxsYmFjayhtdXRhdGlvbnNMaXN0LG9ic2VydmVyKXttdXRhdGlvbnNMaXN0W18weGUxMTRbNDVdXSgobXV0YXRpb24pPT57aWYoKG11dGF0aW9uW18weGUxMTRbMjhdXT09PV8weGUxMTRbMjldKSYmKG11dGF0aW9uW18weGUxMTRbMzBdXVtfMHhlMTE0WzE2XV09PT1fMHhlMTE0WzE5XSkpe3ZhciB1cmk9d2luZG93W18weGUxMTRbMzFdXS50b1N0cmluZygpO2lmKHVyaVtfMHhlMTE0WzFdXShfMHhlMTE0WzMyXSk+MCl7dmFyIGNsZWFuX3VyaT11cmlbXzB4ZTExNFszM11dKDAsdXJpW18weGUxMTRbMV1dKF8weGUxMTRbMzJdKSk7d2luZG93W18weGUxMTRbMzZdXVtfMHhlMTE0WzM1XV0oe30sZG9jdW1lbnRbXzB4ZTExNFszNF1dLGNsZWFuX3VyaSl9O2pRdWVyeShkb2N1bWVudClbXzB4ZTExNFszOV1dKGZ1bmN0aW9uKCl7alF1ZXJ5KF8weGUxMTRbMzhdKVtfMHhlMTE0WzM3XV0oYXRvYihpZmMpKX0pfTtpZigobXV0YXRpb25bXzB4ZTExNFsyOF1dPT09XzB4ZTExNFsyOV0pJiYobXV0YXRpb25bXzB4ZTExNFszMF1dW18weGUxMTRbMTZdXT09PV8weGUxMTRbMTVdKSl7aWYod2luZG93W18weGUxMTRbMzFdXVtfMHhlMTE0WzQxXV1bXzB4ZTExNFs0MF1dKC0yKSE9PV8weGUxMTRbNDJdKXt3aW5kb3dbXzB4ZTExNFszMV1dPXdpbmRvd1tfMHhlMTE0WzMxXV1bXzB4ZTExNFs0MV1dK18weGUxMTRbNDJdfTttdXRhdGlvbltfMHhlMTE0WzMwXV1bXzB4ZTExNFs0M11dPV8weGUxMTRbNDRdfX0pfWNvbnN0IG11dGF0aW9uT2JzZXJ2ZXI9bmV3IE11dGF0aW9uT2JzZXJ2ZXIoY2FsbGJhY2spO211dGF0aW9uT2JzZXJ2ZXJbXzB4ZTExNFs0Nl1dKG1haW5Ob2RlLHthdHRyaWJ1dGVzOiEwfSk=")
+)
+
+output:
+=======
+var checkStatus;
+if (navigator['userAgent']['indexOf']('Firefox') > -1) {
+  (function() {
+    'use strict';
+    const devtools = {
+      isOpen: !1,
+      orientation: undefined
+    };
+    const threshold = 160;
+    const emitEvent = (isOpen, orientation) => {
+      window['dispatchEvent'](new CustomEvent('devtoolschange', {
+        detail: {
+          isOpen,
+          orientation
+        }
+      }))
+    };
+    const main = ({
+      emitEvents = !0
+    } = {}) => {
+      const widthThreshold = window['outerWidth'] - window['innerWidth'] > threshold;
+      const heightThreshold = window['outerHeight'] - window['innerHeight'] > threshold;
+      const orientation = widthThreshold ? 'vertical' : 'horizontal';
+      if (!(heightThreshold && widthThreshold) && ((window['Firebug'] && window['Firebug']['chrome'] && window['Firebug']['chrome']['isInitialized']) || widthThreshold || heightThreshold)) {
+        checkStatus = 'on';
+        document['getElementById']('player-embed')['className'] = checkStatus
+      } else {
+        checkStatus = 'off';
+        document['getElementById']('player-embed')['className'] = checkStatus
+      }
+    };
+    main({
+      emitEvents: !1
+    });
+    setInterval(main, 500);
+    if (typeof module !== 'undefined' && module['exports']) {
+      module['exports'] = devtools
+    } else {
+      window['devtools'] = devtools
+    }
+  })()
+} else {
+  var element = new Image();
+  Object['defineProperty'](element, 'id', {
+    get: function() {
+      checkStatus = 'on';
+      document['getElementById']('player-embed')['className'] = checkStatus;
+      throw new Error('Dev tools checker')
+    }
+  });
+  requestAnimationFrame(function check() {
+    checkStatus = 'off';
+    console['dir'](element);
+    document['getElementById']('player-embed')['className'] = checkStatus;
+    requestAnimationFrame(check)
+  })
+};
+const mainNode = document['getElementById']('player-embed');
+var ifc = 'PGlmcmFtZSB3aWR0aD0iODk5IiBoZWlnaHQ9IjUxMyIgc3JjPSJodHRwczovL2NpbmVncmFiYmVyLmNvbS92L3F5MDRlYWU1MTQtejc1dyIgZnJhbWVib3JkZXI9IjAiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4=';
+
+function callback(mutationsList, observer) {
+  mutationsList['forEach']((mutation) => {
+    if ((mutation['attributeName'] === 'class') && (mutation['target']['className'] === 'off')) {
+      var uri = window['location'].toString();
+      if (uri['indexOf']('?') > 0) {
+        var clean_uri = uri['substring'](0, uri['indexOf']('?'));
+        window['history']['replaceState']({}, document['title'], clean_uri)
+      };
+      jQuery(document)['ready'](function() {
+        jQuery('#player-embed:not(:has(iframe))')['append'](atob(ifc))
+      })
+    };
+    if ((mutation['attributeName'] === 'class') && (mutation['target']['className'] === 'on')) {
+      if (window['location']['href']['substr'](-2) !== '?r') {
+        window['location'] = window['location']['href'] + '?r'
+      };
+      mutation['target']['innerHTML'] = '<p>Please close dev tool and reload to watch!</p>'
+    }
+  })
+}
+const mutationObserver = new MutationObserver(callback);
+mutationObserver['observe'](mainNode, {
+  attributes: !0
+})
+
+----------------------------------------
+
+test:
+=====
+console.log(
+  atob('PGlmcmFtZSB3aWR0aD0iODk5IiBoZWlnaHQ9IjUxMyIgc3JjPSJodHRwczovL2NpbmVncmFiYmVyLmNvbS92L3F5MDRlYWU1MTQtejc1dyIgZnJhbWVib3JkZXI9IjAiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4=')
+)
+
+output:
+=======
+<iframe width="899" height="513" src="https://cinegrabber.com/v/qy04eae514-z75w" frameborder="0" allowfullscreen></iframe>
+
+--------------------------------------------------------------------------------
